@@ -6,7 +6,7 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	impl "github.com/solo-io/ext-auth-plugin-examples/plugins/required_header/pkg"
+	impl "github.com/solo-io/ext-auth-plugin-examples/plugins/example_plugin/pkg"
 	"github.com/solo-io/ext-auth-plugins/api"
 )
 

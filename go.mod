@@ -1,4 +1,4 @@
-module github.com/solo-io/ext-auth-plugin-examples
+module github.com/bcollard/ext-auth-plugin-bco
 
 go 1.14
 
@@ -12,8 +12,6 @@ require (
 	github.com/solo-io/ext-auth-plugins v0.2.0
 	github.com/solo-io/go-utils v0.14.2
 	go.uber.org/zap v1.13.0
-	google.golang.org/genproto v0.0.0-20200309141739-5b75447e413d // indirect
-	google.golang.org/grpc v1.28.0-pre.0.20200226185027-6cd03861bfd2 // indirect
 )
 
 replace (
